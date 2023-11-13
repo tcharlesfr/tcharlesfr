@@ -5,7 +5,7 @@
   
   ![Jubayer Riyad](https://readme-typing-svg.herokuapp.com?font=Inter&color=3A9CDF&size=30&weight=700&lines=Welcome!)
   - My name is Tcharles Fernando, I'm 29yo and I study System Analysis and Development.
-  - I'm focusing on web development
+  - I'm focusing on back-end development
   
 
 
